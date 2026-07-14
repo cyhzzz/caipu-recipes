@@ -1,0 +1,15 @@
+# 中间生成产物
+build/gen_tmp/
+build/chunks/
+build/wip_*/
+build/gen/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

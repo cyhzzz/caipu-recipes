@@ -1,0 +1,29 @@
+{
+  "style": "Vertical 1024x1536 food poster in a playful minimal product-poster style. The main real-object anchor is a photographically realistic [DISH], shown with its true texture, natural color, gentle steam where appropriate, and a soft contact shadow, placed on a clean warm off-white background with generous negative space. Do NOT turn the dish into a cartoon or flat illustration. Add ONE primitive black-line micro worker — a tiny product operator drawn with a thick uneven black marker: a blank lumpy circle-ish head built from a few short broken strokes, no face or eyes, a short open-segment tube body, stiff segmented arms, blocky paddle hands, short bent dash feet, naive proportions, no detailed clothes, no hair, no cute expression. [ACTION]. Add only minimal action-supporting marks if they clarify the action: one ladle, one steam arc, one ground line, or two small drops. ABSOLUTELY NO TEXT anywhere — no Chinese characters, no English letters, no numbers, no labels, no captions, no watermark, no AI-generated labels, no random glyphs. No official brand logo, no cute sticker mascot, no realistic human face, no comic-panel layout, no dense decoration. Keep the dish photographic and let the crude black doodle worker interact playfully with it.",
+  "heroes": [
+    { "name": "金牌老母鸡汤", "dir": "wip_01", "dish": "bowl of clear, glistening golden Chinese old-hen chicken soup with a few tender meat pieces and scallions", "action": "The worker stands at the rim of the bowl and lifts a small ladle of steaming broth" },
+    { "name": "西红柿炒鸡蛋", "dir": "wip_02", "dish": "white plate of Chinese scrambled eggs with bright red tomato chunks and a glossy sheen", "action": "The worker holds a small spatula and scoops a bite from the plate" },
+    { "name": "宫保鸡丁", "dir": "wip_03", "dish": "plate of Gongbao diced chicken with peanuts and dried red chilies", "action": "The worker tosses a single peanut up into the air above the plate" },
+    { "name": "小炒黄牛肉", "dir": "wip_04", "dish": "sizzling plate of stir-fried yellow beef strips with green peppers and red chili", "action": "The worker waves a small hand fan at the rising steam" },
+    { "name": "梅菜扣肉", "dir": "wip_05", "dish": "bowl of glistening braised pork belly slices layered with preserved mustard greens", "action": "The worker lifts one slice of pork belly with a pair of chopsticks" },
+    { "name": "粉蒸肉", "dir": "wip_06", "dish": "steamed bowl of pork ribs coated in moist rice flour and sliced potato", "action": "The worker sprinkles a pinch of rice-flour powder from above" },
+    { "name": "剁椒鱼头", "dir": "wip_07", "dish": "steamed fish head on a plate covered with bright red chopped chilies and green scallions", "action": "The worker carefully places one extra red chili on top of the fish" },
+    { "name": "土豆牛腩", "dir": "wip_08", "dish": "bowl of beef brisket stew with soft potato chunks in a rich brown broth", "action": "The worker stirs the broth with a small ladle" },
+    { "name": "白菜炖豆腐", "dir": "wip_09", "dish": "clay pot of tender cabbage and white tofu cubes in clear broth", "action": "The worker lifts the clay pot lid, releasing a steam puff" },
+    { "name": "口水鸡", "dir": "wip_10", "dish": "plate of poached chicken pieces drizzled with red chili oil and sesame seeds", "action": "The worker pours a small stream of red chili oil over the chicken" },
+    { "name": "柠檬凤爪", "dir": "wip_11", "dish": "plate of chilled chicken feet garnished with bright yellow lemon slices and chili", "action": "The worker squeezes a lemon wedge over the plate" },
+    { "name": "卤鸡腿", "dir": "wip_12", "dish": "single glossy soy-braised chicken drumstick on a small plate", "action": "The worker lifts the drumstick with both hands" },
+    { "name": "卤鸡爪", "dir": "wip_13", "dish": "plate of glossy soy-braised chicken feet", "action": "The worker carries one chicken foot away like a log" },
+    { "name": "鸡汁汤包", "dir": "wip_14", "dish": "bamboo steamer filled with plump soup dumplings", "action": "The worker lifts one dumpling with chopsticks" },
+    { "name": "手工春卷", "dir": "wip_15", "dish": "plate of golden fried spring rolls with a small dish of dipping sauce", "action": "The worker dips one spring roll into the sauce" },
+    { "name": "牛肉盒", "dir": "wip_16", "dish": "crispy folded fried meat pocket on a plate", "action": "The worker holds up the folded meat pocket" },
+    { "name": "香酥鸡米花", "dir": "wip_17", "dish": "basket piled with crispy golden popcorn chicken nuggets", "action": "The worker reaches into the basket to grab one nugget" },
+    { "name": "炸鸡排", "dir": "wip_18", "dish": "large golden fried breaded chicken cutlet on a plate", "action": "The worker cuts a slice from the cutlet with a tiny knife" },
+    { "name": "砂锅酸菜鱼", "dir": "wip_19", "dish": "clay pot filled with white fish slices and pickled greens in sour broth", "action": "The worker lifts the lid of the clay pot, steam rising" },
+    { "name": "金汤酸菜鱼", "dir": "wip_20", "dish": "bowl of golden sour broth with tender fish slices and pickled greens", "action": "The worker tastes the broth with a small spoon" },
+    { "name": "鸡汤娃娃菜", "dir": "wip_21", "dish": "bowl of baby cabbage leaves in clear golden chicken broth", "action": "The worker pours a small stream of broth over the cabbage" },
+    { "name": "西红柿炒鸡蛋盖饭", "dir": "wip_22", "dish": "bowl of white rice topped with tomato-egg stir-fry", "action": "The worker mixes the topping into the rice with a spoon" },
+    { "name": "鸡笼香柠檬茶", "dir": "wip_23", "dish": "tall glass of iced lemon tea with yellow lemon slices and ice cubes", "action": "The worker drops a lemon slice into the glass, creating a small splash" },
+    { "name": "毛豆烧土鸡", "dir": "wip_24", "dish": "plate of braised free-range chicken pieces with green edamame pods", "action": "The worker tosses one edamame pod into the air" }
+  ]
+}
