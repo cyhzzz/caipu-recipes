@@ -18,10 +18,10 @@
   --radius: 12px;
   --radius-sm: 8px;
   --maxw: 720px;
-  --font-brand: "Ma Shan Zheng", "Songti SC", "Noto Serif SC", serif;
+  --font-brand: "Songti SC", "STSong", "SimSun", "Noto Serif SC", serif;
   --font-display: "Songti SC", "Noto Serif SC", "Source Han Serif SC", serif;
   --font-body: "PingFang SC", "Hiragino Sans GB", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --font-num: "Fraunces", var(--font-body);
+  --font-num: "Georgia", "Times New Roman", var(--font-body);
 }
 
 * { box-sizing: border-box; }
